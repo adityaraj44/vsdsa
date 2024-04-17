@@ -1,0 +1,9 @@
+/*
+
+Dijkstra works on both directed and undirected graphs with non negative weights
+
+Bellman works on both direct and undirected with non negative weights but it only works in directed graphs with negaive weights
+
+Shortest path using toposort works only in acyclic directed graph
+
+*/
